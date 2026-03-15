@@ -2,7 +2,7 @@
 
 A Revista de divulgação científica em quadrinhos para o público infantojuvenil, produzida por graduandos da **UNICAMP**.
 
-![História Q App](https://cdn.jsdelivr.net/gh/FelipeDaoBorges/historia-q-img/Site%20Historia%20Q%20-%20Imagens/App%20Hist%C3%B3ria%20Q.PNG)
+[![História Q App](https://cdn.jsdelivr.net/gh/FelipeDaoBorges/historia-q-img/Site%20Historia%20Q%20-%20Imagens/App%20Hist%C3%B3ria%20Q.PNG)](https://cdn.jsdelivr.net/gh/FelipeDaoBorges/historia-q-img@main/Site%20Historia%20Q%20-%20Imagens/App%20Hist%C3%B3ria%20Q.PNG)
 
 ---
 
