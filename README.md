@@ -2,7 +2,7 @@
 
 A Revista de divulgação científica em quadrinhos para o público infantojuvenil, produzida por graduandos da **UNICAMP**.
 
-![História Q App](./App_Histo_ria_Q.PNG)
+![História Q App](https://cdn.jsdelivr.net/gh/FelipeDaoBorges/historia-q-img/Site%20Historia%20Q%20-%20Imagens/App%20Hist%C3%B3ria%20Q.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ O app oferece uma experiência otimizada com notificações push e leitura facil
 
 > O app ainda não está disponível na Play Store. Por ser um projeto acadêmico, a instalação é feita diretamente pelo arquivo APK.
 
-**[Baixar APK — Link em breve]**
+**[Baixar APK — Historia Q v0.1](https://github.com/FelipeDaoBorges/historia-q-download/releases/download/0.1/Historia-Q-v01.apk)**
 
 ---
 
