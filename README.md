@@ -57,7 +57,10 @@ O app oferece uma experiência otimizada com notificações push e leitura facil
 - Raquel Gryszczenko Alves Gomes
 
 **Discentes (História - Unicamp):**
-Alana Rayssa · Alice Souza · Ariane Cleto · Bee Alves Batista · Emilly Caxias Reis · Felipe Dão Borges · Fernanda Pavan · Giovana Roncato Magnani · Jéssica de Almeida Silva · Mariah V. S. Belém · Samara S. Franco · Yasmim Fillipini Felix
+Alana Rayssa · Alice Souza · Bee Alves Batista · Emilly Caxias Reis · Felipe Dão Borges · Fernanda Pavan · Giovana Roncato Magnani · Jéssica de Almeida Silva · Mariah V. S. Belém · Samara S. Franco · Yas Fillipini Felix
+
+**Discentes (Pedagogia - Unicamp):**
+Ariane Cleto
 
 ---
 
