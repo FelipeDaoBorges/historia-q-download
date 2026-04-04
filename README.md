@@ -46,7 +46,7 @@ O app oferece uma experiência otimizada com notificações push e leitura facil
 
 > O app ainda não está disponível na Play Store. Por ser um projeto acadêmico, a instalação é feita diretamente pelo arquivo APK.
 
-**[Baixar APK — Historia Q v0.1](https://github.com/FelipeDaoBorges/historia-q-download/releases/download/0.1/Historia-Q-v01.apk)**
+**[Baixar APK — Historia Q v1.0](https://github.com/FelipeDaoBorges/historia-q-download/releases/download/1.0.0/Historia.Q.apk)**
 
 ---
 
